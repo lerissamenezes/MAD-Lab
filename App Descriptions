@@ -1,0 +1,18 @@
+app: Simple text display on button click
+app2: Sum of two numbers and display a toast
+app3: Change background colour to random colour on button click
+app4: Radiogroup and Radiobutton
+app5: Checkbox
+app6: Image set with text  i.e waddup cutie
+app7: Changing images on click of button odd and even number of times i.e chiccha and buffy lerzz
+app8: Color change on selecting Radiobutton and giving submit
+// app9: #HOMEWORK Simple Calculator
+app10: Total price of items using checkbox
+app11: Datepicker and Timepicker
+app12: Color change on clicking radiobutton
+app13: Option Menu on side
+app14: Option Menu on main screen on long press of button
+app15: Listview add item on button click and delete on long press, alert dialogue boxes
+app16: Andiod Activity lifecycle
+app17: Explicit Intent
+app18: Sending and receiving using explicit intents
