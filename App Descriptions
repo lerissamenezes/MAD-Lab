@@ -26,15 +26,13 @@ app 22: Sending email to email app by implicit intent
 app 23: Sending a text message to a number by implicit call
 app 24: Thread counter
 app 25: AsyncTask
-app 26: Program has to sleep for particular duration and display a toast. While the background tasks is 
-	sleeping, we should still be able to use foreground elements like in downloading. 
-	Also uses progress dialog as a spinner
+app 26: Program has to sleep for particular duration and display a toast. While the background tasks are sleeping, we should still be able to use foreground 
+	elements like in downloading. Also uses progress dialog as a spinner
 app 27: Broadcast Receiver for battery level
 app 28: Call Broadcast Receiver
-app 29: Same as app 28 but using CALL_STATE which takes integers
+app 29: Same as app 28 but using CALL_STATE
 app 30: Music: play, pause and stop
 app 31: SQLite database- employee
 app 32: SQLite database - student using Sqlite OpenHelper class
 app 33: System camera for images
 app 34: System camera for videos
-	
