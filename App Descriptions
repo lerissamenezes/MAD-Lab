@@ -16,6 +16,8 @@ app15: Listview add item on button click and delete on long press, alert dialogu
 app16: Andiod Activity lifecycle
 app17: Explicit Intent
 app18: Sending and receiving using explicit intents
+
+MSE 2
 app19: Implicit intent
 	1. To call and redirection to phoneapp20
 	2. Give text url and redirect to browser
@@ -36,3 +38,4 @@ app 31: SQLite database- employee
 app 32: SQLite database - student using Sqlite OpenHelper class
 app 33: System camera for images
 app 34: System camera for videos
+app 35: Shared preferences i.e saves the app's data locally by creating a file
