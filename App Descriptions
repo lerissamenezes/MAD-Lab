@@ -41,7 +41,7 @@ app 34: System camera for videos
 app 35: Shared preferences i.e saves the app's data locally by creating a file
 
 app 36: Notification creations
-app 37: #HOMEWORK AsyncTask counter to count till 20 and give a notifcation when done
+ // app 37: #HOMEWORK AsyncTask counter to count till 20 and give a notifcation when done
 app 38: Services to run an activity even when it's removed from the background and display a notification
 app 39: Android Animation
 app 40: Sensor Accelerometer
